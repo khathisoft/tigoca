@@ -1,3 +1,6 @@
+1.0.35
+Update InSoft license func
+
 1.0.34
 Update func bug fix
 
